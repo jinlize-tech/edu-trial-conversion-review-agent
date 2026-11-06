@@ -1,0 +1,24 @@
+{
+  "number": 26,
+  "product_id": "JLZ-EDU-AG-005",
+  "chinese_name": "试听转化复盘",
+  "english_name": "Trial Conversion Review Agent",
+  "repository_name": "edu-trial-conversion-review-agent",
+  "product_type": "Agent",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-trial-conversion-review-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "试听名单、咨询记录、到场/成交结果、课程和顾问处理动作",
+  "main_output": "转化复盘、原因分层、有效动作、失败案例、改进清单和下一周期指标",
+  "package_entries": [
+    "edu-trial-conversion-review-agent/.codebuddy-plugin/plugin.json",
+    "edu-trial-conversion-review-agent/agents/edu-trial-conversion-review-agent.md",
+    "edu-trial-conversion-review-agent/avatars/expert.png",
+    "edu-trial-conversion-review-agent/README.md"
+  ]
+}

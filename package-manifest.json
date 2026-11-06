@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-005",
+  "repository_name": "edu-trial-conversion-review-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-trial-conversion-review-agent-v1.0.0.zip",
+  "sha256": "AF2030B85647465F567F60018E560C72FBE98425B025B275EA638E59EC32CD27",
+  "bytes": 11682,
+  "entries": [
+    "edu-trial-conversion-review-agent/.codebuddy-plugin/plugin.json",
+    "edu-trial-conversion-review-agent/agents/edu-trial-conversion-review-agent.md",
+    "edu-trial-conversion-review-agent/avatars/expert.png",
+    "edu-trial-conversion-review-agent/README.md"
+  ],
+  "built_at": "2026-11-06T21:41:26.4263287+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
