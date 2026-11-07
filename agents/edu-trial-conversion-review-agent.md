@@ -6,7 +6,7 @@ displayName:
   zh: '试听转化复盘'
 profession:
   en: 'Trial Conversion Review Agent'
-  zh: ''
+  zh: '试听转化复盘专家'
 maxTurns: 50
 ---
 
